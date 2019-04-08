@@ -4,6 +4,12 @@
 ### 安装依赖包
 	npm install
 
+### 安装 less 依赖(optional)。
+
+  如果编译时提示 `找不到编译器：wepy-compiler-less` 可手动安装。  
+  
+	npm install less --save
+
 ### 开发实时编译。
 	npm run dev
 
